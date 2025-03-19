@@ -1,0 +1,10 @@
+[project]
+name = "exercicios_python"
+version = "0.1.0"
+description = "Um novo projeto Python"
+authors = ["Seu Nome <seu@email.com>"]
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
